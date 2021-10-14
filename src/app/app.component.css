@@ -4,4 +4,15 @@ h2{
     font-family: 'Yellowtail';
     color: #424242;
     margin-bottom: 0;
+    background-color: transparent !important;
+}
+
+
+
+#footer{
+    margin-top: 4px;
+    position: absolute;
+    bottom: 0px;
+    width: 98%;
+    z-index: -1;
 }

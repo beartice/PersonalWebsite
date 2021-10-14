@@ -4,6 +4,7 @@ img{
 }
 
 div{
+    background-color: transparent !important;
     width: 46%;
     float:left;
 }
